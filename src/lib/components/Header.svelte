@@ -125,9 +125,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 70%;
-    max-width: 200px;
-    height: 30%;
+    width: 80%;
+    max-width: 400px;
+    height: 50%;
     background-color: white;
     padding: 2rem;
     display: flex;
