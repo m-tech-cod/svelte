@@ -2,14 +2,14 @@
 
 Portfolio interactif avec mode sombre/clair, animations au scroll, et formulaire de contact fonctionnel.
 
-## 🚀 Live Demo
+## Live Demo
 
-[https://dev-portfolio.vercel.app](https://dev-portfolio.vercel.app)
+https://svelte-three.vercel.app/
 
-## 📦 Installation
+## Installation
 
 ```bash
-git clone https://github.com/ton-compte/dev-portfolio.git
+git clone https://github.com/m-tech-cod/svelte
 cd dev-portfolio
 npm install
 npm run dev
